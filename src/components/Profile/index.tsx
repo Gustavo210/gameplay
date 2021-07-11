@@ -16,7 +16,6 @@ export function Profile() {
   const [isModalOpen, setIsModalOpen] = useState(false)
 
   function handleSignOut() {
-    alert("Ois")
     singOut()
   }
 
