@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0E1647"
       },
-      "package": "app.vercel.moveit-project-flame",
+      "package": "app.vercel.moveitprojectflame",
       "versionCode": 1
     },
     "web": {
